@@ -1,0 +1,22 @@
+<header>Forever wakanda</header>
+
+<nav>
+        <a id="nav-actor" href="#actor">Actors</a>
+        <a id="nav-quote" href="#quote">Quotes</a>
+</nav>
+
+<summary>
+    <p>based o the power of black panther</p>
+</summary>
+<section id="actor"> 
+    <p>chadwik bosema</p>
+</section>
+<section id="quote"> 
+    <p>wakandaki jai ho maharaj tabaku ki jai ho</p>
+</section>
+<aside>
+    imbd ratig:7.3
+</aside>
+<footer>
+    <p>Produced by: rayan coogler</p>
+</footer>
